@@ -6,3 +6,7 @@ body[style="margin: 0px;"] {
 body[style="margin: 0px;"] > img {
     margin: auto
 }
+
+img {
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAgAElE…gkDDV6ij7njqag1+SOI5eQTQnmJEvsfbKU3N517b7enj1f6Z/LYmPyVY0AAAAAElFTkSuQmCC") #e6e6e6;
+}
